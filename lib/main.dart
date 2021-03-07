@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HomeScreen(),
+      home: HomeScreen(), //เมื่อเปิดแล้วอยากให้ไปหน้าไหนอันดับแรก
     );
   }
 }
